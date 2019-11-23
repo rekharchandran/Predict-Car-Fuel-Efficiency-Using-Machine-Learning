@@ -1,2 +1,3 @@
 # Predict-Car-Fuel-Efficiency-Using-Machine-Learning
-Utilising machine learning techniques to predict the Car Fuel Efficiency
+### Introduction
+The automotive industry is extremely competitive. With increasing fuel prices and picky consumers, automobile makers are constantly optimizing their processes to increase fuel efficiency
