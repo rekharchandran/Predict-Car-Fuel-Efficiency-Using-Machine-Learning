@@ -24,5 +24,10 @@ you are given a dataset with various characteristics of new cars sold in the U.S
 
 •	DriveDesc ~ type of drivetrain: 4WD (four wheel drive), PT4 (part-time four wheel drive),  AWD (all wheel drive), FWD (front wheel drive) and RWD (rear wheel drive)
 
+•	IntakeValvePerCyl ~ number of intake valves per cylinder
+
+•	ExhaustValvesPerCyl ~ number of exhaust valves per cylinder
+
+
 
 
