@@ -28,6 +28,14 @@ you are given a dataset with various characteristics of new cars sold in the U.S
 
 •	ExhaustValvesPerCyl ~ number of exhaust valves per cylinder
 
+•	CarlineClassDesc ~ class of the car: subcompact, compact, midsize, …, SUV, …
+
+•	VarValveTiming ~ whether the engine has variable valve timing
+
+•	VarValveLift ~ whether the engine has variable valve lift
+
+
+
 
 
 
