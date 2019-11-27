@@ -34,6 +34,8 @@ you are given a dataset with various characteristics of new cars sold in the U.S
 
 •	VarValveLift ~ whether the engine has variable valve lift
 
+You may learn more about the different characteristics and the relationships between them online. E.g. Wikipedia has useful descriptions of variable valve timing and variable valve lift.
+
 
 
 
