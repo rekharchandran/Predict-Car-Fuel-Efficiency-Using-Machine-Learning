@@ -20,4 +20,9 @@ you are given a dataset with various characteristics of new cars sold in the U.S
 
 •	TransLockup ~ whether the transmission can be locked up at fixed ratios (applicable mainly to continuously variable transmissions)
 
+•	TransCreeperGear ~ whether the transmission has a creeper gear (a low gear used for driving slowly in difficult terrains when off-roading)
+
+•	DriveDesc ~ type of drivetrain: 4WD (four wheel drive), PT4 (part-time four wheel drive),  AWD (all wheel drive), FWD (front wheel drive) and RWD (rear wheel drive)
+
+
 
