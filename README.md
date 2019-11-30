@@ -6,6 +6,8 @@ you are given a dataset with various characteristics of new cars sold in the U.S
 
 ### Objective
 
+Our objective in this notebook is to predict the mpg of a car, given specifications such as weight, cylinder count, etc.
+
 
 ### List of car characteristics in the dataset:
 •	EngDispl ~ engine displacement (in liters): how large is the engine
